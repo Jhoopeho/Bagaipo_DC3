@@ -3,6 +3,6 @@
 
 <template>
 <div> 
-<h2>Hello Sir, Mic Test</h2>
+<h2>Hello Sir, Mic test</h2>
 </div>
 </template>
